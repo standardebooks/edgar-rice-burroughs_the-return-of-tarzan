@@ -47,7 +47,7 @@
 		<dc:description id="description">Tarzan attempts to leave behind life in the jungle but rapidly discovers that life among humans contains just as many dangers.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Return of Tarzan&lt;/i&gt;, was first published in the pulp magazine &lt;i&gt;New Story Magazine&lt;/i&gt; between June and December of 1913 and later published as a novel in 1915. It is the second book in the &lt;a href="https://standardebooks.org/collections/tarzan"&gt;Tarzan series&lt;/a&gt; written by &lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs"&gt;Edgar Rice Burroughs&lt;/a&gt;.&lt;/p&gt;
-			&lt;p&gt;The story picks up shortly after the events in the first book as Tarzan travelling to France from the United States. While on the ship, he intervenes in the plots of a man named Nikolas Rokoff and his companion Alexis Paulvitch. Upon reaching Paris, Rokoff executes the first of many revenge plots which plunge Tarzan into a series of adventures.&lt;/p&gt;
+			&lt;p&gt;The story picks up shortly after the events in the first book as Tarzan is traveling to France from the United States. While on the ship, he intervenes in the plots of a man named Nikolas Rokoff and his companion Alexis Paulvitch. Upon reaching Paris, Rokoff executes the first of many revenge plots which plunge Tarzan into a series of adventures.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/81</dc:source>
