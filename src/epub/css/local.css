@@ -19,7 +19,7 @@ footer{
 	font-variant: small-caps;
 }
 
-#chapter-1 blockquote p:only-child{
+#chapter-1 blockquote:first-of-type p{
 	font-style: italic;
 	text-align: center;
 }
