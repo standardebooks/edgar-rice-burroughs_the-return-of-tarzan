@@ -51,7 +51,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/81</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/006228594</dc:source>
 		<meta property="se:word-count">90037</meta>
-		<meta property="se:reading-ease.flesch">69.01</meta>
+		<meta property="se:reading-ease.flesch">69.11</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Return_of_Tarzan</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-rice-burroughs_the-return-of-tarzan</meta>
 		<dc:creator id="author">Edgar Rice Burroughs</dc:creator>
