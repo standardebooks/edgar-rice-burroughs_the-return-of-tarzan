@@ -19,6 +19,10 @@ footer{
 	font-variant: small-caps;
 }
 
+.telegram{
+	font-variant: all-small-caps;
+}
+
 #chapter-1 blockquote:first-of-type p{
 	font-style: italic;
 	text-align: center;
