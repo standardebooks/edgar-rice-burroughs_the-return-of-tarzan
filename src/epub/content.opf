@@ -44,7 +44,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Tarzan</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:abstract>Tarzan attempts to leave behind life in the jungle but rapidly discovers that life among humans contains just as many dangers.</dc:abstract>
+		<meta property="schema:abstract">Tarzan attempts to leave behind life in the jungle but rapidly discovers that life among humans contains just as many dangers.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Return of Tarzan&lt;/i&gt; was first published in the pulp &lt;i&gt;New Story Magazine&lt;/i&gt; between June and December of 1913, and later published as a novel in 1915.&lt;/p&gt;
 			&lt;p&gt;The story picks up shortly after the events in the first book as Tarzan is traveling to France from the United States. While on the ship, he intervenes in the plots of a man named Nikolas Rokoff and his companion Alexis Paulvitch. Upon reaching Paris, Rokoff executes the first of many revenge plots, which plunge Tarzan into a series of adventures.&lt;/p&gt;
